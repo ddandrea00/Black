@@ -1,4 +1,4 @@
-<a href=""><img src="/src/zinder.png" title="News Talk" alt="News Talk Logo"></a>
+<a href=""><img src="/src/black.png" title="black" alt="b;ack logo"></a>
 
 # BLACK | Slack Clone
 
