@@ -1,6 +1,6 @@
 <a href=""><img src="/src/zinder.png" title="News Talk" alt="News Talk Logo"></a>
 
-# Zinder | Tinder Clone
+# BLACK | Slack Clone
 
 > We all love Slack (...kind of). I love dark mode. Yes I know slack has that already but I wanted to make my own. Don't hate. Not all the functionality of Slack yet because if there was I'd just use this..
 
